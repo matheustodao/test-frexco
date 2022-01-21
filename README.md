@@ -19,29 +19,17 @@ Na `src/services/FruitsService.js` onde está escrito `process.env.REACT_APP_BAC
 - Styled Components,para estilização.
 
 ## O que foi feito
-- Listagem dos produtos.
-- Barra de pesquisa.
+- Página inicial com a lista dos produtos.
+- Página do carrinho de compras.
+- Context API (Para o carrinho de compras).
+- Persistencia dos produtos adicionados no carrinho mesmo após atualização da página.
 - Responsividade do layout.
-- Conexão com API.
-- UX e CTA.
-
-## Estrutura das pastas na *src*
-- Assets
-  - Styles
-  -Estilo global e a pasta theme com as cores da utilizada no projeto.
-    - Images, onde fica todas images e icones
-- Components, reaproveitamento dos elementos reutilizaveis de forma global.
-- Services, para fazer a requisição com a api
-- Context
-- Pages
-- *Pasta utils e components dentro das pastas citas, são usados forma local*
+- Proxy para utilizar a API.
 
 ## Obrigado!
-> Oi, sou Matheus Todao! estudo programação desde dos 13 ano no entanto fui descobrir
-qual linguagem e biblioteca usar de forma profissional após 1 ano e alguns meses.
-Objetivo da minha carreira é me tornar desenvolvedor javascript fullstack (usando principalmente: react, node, react-native).
->> Agradeço desde já pela oportunidade que me deram entrar no processo seletivo.
-  *Aguardo a resposta mesmo sendo "Obrigado(a), mas não foi dessa vez"* rsrs
+> Oi, sou Matheus Todao! estudo programação desde dos 13 anos no entanto, fui descobrir qual linguagem e biblioteca usar de forma profissional após 1 ano e alguns meses.
+Objetivo da minha carreira é me tornar desenvolvedor javascript fullstack usando principalmente: reactJS e suas framework, nodeJS, React Native, typescript.
+>> Agradeço desde já pela oportunidade que me deram entrar no processo seletivo. *Aguardo a resposta mesmo sendo "Obrigado(a), mas não foi dessa vez"* rsrsrs
 
 _______
 **Onde pode me encontrar**
@@ -57,5 +45,5 @@ _______
 - [MyContacts CRUD de contatos](https://github.com/matheustodao/MyContacts)<br>
 
 #### Se você chegou até aqui, deixo mais uma frase
-> “As pessoas precisam crescer por intermédio de frustrações habilidosas, caso contrário, não terão incentivo para desenvolver os próprios meios e caminhos para lidar com o mundo”
+> “As pessoas precisam crescer por intermédio de frustrações habilidosas, caso contrário, não terão incentivo para desenvolver os próprios meios e caminhos para lidar com o mundo.”
 **Bruce Lee**
