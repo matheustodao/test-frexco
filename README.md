@@ -12,7 +12,7 @@ Na pasta ***frontend*** usa seguinte comandos no terminal.
 <br>
 Na `src/services/FruitsService.js` onde está escrito `process.env.REACT_APP_BACKEND_URL` troca para `https:localhost:3001`.
 
-## Techs externas utilizadas no FRONTEND
+## Techs utilizadas no FRONTEND
 - React, uma biblioteca do *javascript* para contrução de UIs.
 - Prop Types, para tipar as props passadas no componente.
 - React Router Dom, para navegação no react.
