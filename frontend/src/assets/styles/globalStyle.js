@@ -23,6 +23,7 @@ export default createGlobalStyle`
 
   main {
     margin: 13.2rem auto;
+    padding-bottom: 15rem;
   }
 
   h1, h2, h3, h4, h5, h6, button {
