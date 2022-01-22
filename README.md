@@ -37,6 +37,7 @@ _______
 - [Linkedin](https://linkedin.com/in/matheustodao)<br>
 - [Github](https://github.com/matheustodao)<br>
 - [Meu Site](https://todaomatheus.vercel.app)<br>
+- Ou no e-mail _todaomatheus@hotmail.com_
 _______
 
 **Os dois últimos projetos trabalhando atualmente**
